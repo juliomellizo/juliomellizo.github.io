@@ -3,7 +3,7 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/jws-2020/v1"
   ],
-  "id": "did:web:juliomellizo.github.io",
+  "id": "did:web:juliomellizo.github.io/did.json",
   "verificationMethod": [
     {
       "id": "did:web:juliomellizo.github.io#owner",
@@ -18,9 +18,9 @@
     }
   ],
   "authentication": [
-    "did:web:juliomellizo.github.io#owner"
+    "did:web:skounis.github.io#owner"
   ],
   "assertionMethod": [
-    "did:web:juliomellizo.github.io#owner"
+    "did:web:skounis.github.io#owner"
   ]
 }
