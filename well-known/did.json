@@ -8,7 +8,7 @@
     {
       "id": "did:web:juliomellizo.github.io/well-known/did.json#owner",
       "type": "JsonWebKey2020",
-      "controller": "did:web:juliomellizo.github.io/well-known/did.json",
+      "controller": "did:web:juliomellizo.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "secp256k1",
