@@ -6,7 +6,7 @@
   "id": "did:web:juliomellizo.github.io",
   "verificationMethod": [
     {
-      "id": "did:web:juliomellizo.github.io#owner",
+      "id": "did:web:juliomellizo.github.io/wee-known/did.json#owner",
       "type": "JsonWebKey2020",
       "controller": "did:web:juliomellizo.github.io",
       "publicKeyJwk": {
