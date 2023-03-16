@@ -18,9 +18,9 @@
     }
   ],
   "authentication": [
-    "did:web:juliomellizo.github.io#owner"
+    "did:web:skounis.github.io#owner"
   ],
   "assertionMethod": [
-    "did:web:juliomellizo.github.io#owner"
+    "did:web:skounis.github.io#owner"
   ]
 }
